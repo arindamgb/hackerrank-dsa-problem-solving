@@ -1,4 +1,4 @@
-
+# https://www.hackerrank.com/challenges/grading/problem
 
 def gradingStudents(grades):
     # Write your code here
@@ -23,4 +23,5 @@ grades = [73, 67, 38, 33]
 
 afterUpdate = gradingStudents(grades)
 
-print(afterUpdate)
+for g in afterUpdate:
+    print(g)
