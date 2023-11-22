@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png" ></a></p>
+<p align="center"><a href="https://www.hackerrank.com/profile/arindamgb_devops"><img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png" ></a></p>
 
 # HackerRank Data Structures & Algorithms Solutions
 
