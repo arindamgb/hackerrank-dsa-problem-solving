@@ -36,7 +36,7 @@ def pageCount(n, p):
             else:
                 turnFromEnd += 1
                 currentPage -= 2
-    print(turnFromEnd)
+    # print(turnFromEnd)
 
     if turnFromStart < turnFromEnd:
         return turnFromStart
